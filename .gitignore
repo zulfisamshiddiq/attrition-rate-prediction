@@ -1,0 +1,11 @@
+# Virtual environment
+.venv
+
+# Archieve
+*.zip
+*.rar
+*.7z
+
+# Media
+*.jpeg
+*.mp4
